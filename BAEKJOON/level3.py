@@ -126,7 +126,7 @@ while True:
     # print(num)      # 26 - 68 - 84 - 42 - 26
     cnt += 1
 
-    if num == N:
+    if num == N:        # 구글링
         break
 
 print(cnt)
