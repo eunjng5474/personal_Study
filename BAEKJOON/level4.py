@@ -113,3 +113,10 @@
 
 # 8958 ox퀴즈
 t = int(input())
+o_list = []
+for i in range(t):
+    t_case = input()
+    x_cnt = t_case.count('X')
+    for j in range(x_cnt):
+        pass
+
